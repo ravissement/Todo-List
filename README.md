@@ -1,6 +1,6 @@
 # vue-todo
 
-> A Vue.js project
+> A Vue.js project(Basic)
 
 ## Build Setup
 
